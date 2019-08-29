@@ -9,7 +9,7 @@ Checkout (FEITO)
 Add (FEITO)
 Commit (FEITO)
 Push (FEITO) 
-Pull
+Pull (FEITO) 
 Fetch (FEITO) 
 
 
@@ -27,3 +27,7 @@ Meus passos:
 10 - Fiz uma alteração no arquivo "README.md" (Escrevi "Alteração para o fetch") para executar o comando "git fetch" (P_GITFETCH)
 11 - Fiz uma alteração no arquivo "README.md" (Escrevi "Alteração para o pull") para executar o comando "git pull" (P_GITPULL)
 
+
+
+#Alterando para poder dar Fetch
+#Alterando para poder dar Pull
