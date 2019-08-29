@@ -25,3 +25,4 @@ Meus passos:
 
 
 #Alterando para poder dar Fetch
+#Alterando para poder dar Pull
