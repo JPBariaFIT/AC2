@@ -22,3 +22,6 @@ Meus passos:
 5 - Dentro do nosso repositorio adicionei a pasta de prints e executei o comando "git add ." para subir todos novos arquivos em nosso repositorio
 6 - Fiz uma alteração no arquivo "README.md" (Escrevi EDIT.1) para executar o comando "git checkout" (P_GITCHECKOUT) que removeu essa ultima alteração que tinha feito
 7 - Executei novamente o comando git status para verificar a situação dos arquivo em nosso repositorio (P_GITSTATUS2) 
+
+
+#Alterando para poder dar Fetch
