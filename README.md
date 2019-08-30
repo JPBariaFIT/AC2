@@ -1,7 +1,7 @@
 # AC2
 - Avaliação Continua 2 
 - Aluno: João Pedro Baria
-1. RA: 1802408
+- RA: 1802408
 
 ## CHECKLIST:
 - [x] Clone (FEITO)
@@ -27,7 +27,7 @@
 - 10 - Fiz uma alteração no arquivo "README.md" (Escrevi "Alteração para o fetch") para executar o comando "git fetch" (P_GITFETCH)
 - 11 - Fiz uma alteração no arquivo "README.md" (Escrevi "Alteração para o pull") para executar o comando "git pull" (P_GITPULL)
 
+# Alterações
 
-
-- #Alterando para poder dar Fetch
-- #Alterando para poder dar Pull
+- ##Alterando para poder dar Fetch
+- ##Alterando para poder dar Pull
